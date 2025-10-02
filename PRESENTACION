@@ -1,25 +1,14 @@
 <!DOCTYPE html>
-<html>
-<head> charset"UTF-8"
+<html>Lang"es"
+<head> charset"UTF-
+<meta name="viewport" 
+
+
 	<title>presentacion</title>
-	<link rel="stylesheet" href="css/Styles-css"></head>
+	<link rel="stylesheet" href="css/Styles-css">
+</head>
 <body>
-	<header>
-		<h1>presentacion </h1>
-	</header>
-	<nav>
-		<ul>
-			<li><a href="                  
-			<li><a href="#"></a></li>
-			<li><a href="#">soy estudiante de universidades</a></li>
-		</ul>
-	</nav>
-	<main>
-		<h2>Bienvenido a mi página web</h2>
-		<p>Esta es una página web sencilla creada con HTML y CSS.</p>
-	</main>
-	<footer>
-		<p>&copy;b</p>
-	</footer>
-</body>
-</html>
+html>
+<header>
+</main>
+	
