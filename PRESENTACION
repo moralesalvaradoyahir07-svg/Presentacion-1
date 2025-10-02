@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html>
-<head> charset"UTF-8"
+<head> 
+<meta charset"UTF-8"
+<meta name= "viemport" content=widt
 	<title>presentacion</title>
 	<link rel="stylesheet" href="css/Styles-css"></head>
 <body>
-	<header>
-		<h1>presentacion </h1>
-	</header>
-	<nav>
-		<ul>
+	<header>presentacion
+		<h1>presentacion </h1> 
+    <section><articule><h2
+    <nav>
+	<ul>
 			<li><a href="                  
 			<li><a href="#"></a></li>
 			<li><a href="#">soy estudiante de universidades</a></li>
